@@ -1,0 +1,60 @@
+.box{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    width: 400px;
+    border: 1px solid;
+}
+
+.title{
+    height: 50px;
+    line-height: 50px;
+    background: skyblue;
+    text-align: center;
+}
+
+.header{
+    height: 50px;
+}
+
+.header div{
+    height: 30px;
+}
+
+.header Input{
+    width: 280px;
+}
+
+.header Button{
+    width: 90px;
+    height: 36px;
+    margin-left: 5px;
+}
+
+.padding10{
+    padding: 10px;
+}
+
+.item_list{
+    padding: 10px;
+}
+
+.item{
+    height: 30px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.float_left{
+    float: left;
+    width: 90%;
+}
+
+.float_right{
+    float: right;
+}
+
+.checked{
+    text-decoration: line-through;
+    opacity: 50%;
+}
